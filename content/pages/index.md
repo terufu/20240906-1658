@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: こんなお悩みを抱えていませんか？
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      ・ビジネスの成長に課題を感じてる
+      ・新たなビジネスチャンスを見つけるのが難しい
+      ・お客様との関係をもっと深めたい
+      ・競合他社との差別化が難しい
+      ・お客様に対する独自性が足りない
+      今のまま変わらなければ１年後どうなっていますか？
     actions:
       - label: Get started
         altText: ''
